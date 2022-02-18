@@ -1,4 +1,4 @@
-# flutter_connection
+# flutter_connection with BLOC
 
 A new Flutter project.
 
